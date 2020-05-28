@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>성태와 환이형의 콜라보레이션</h1>
-<h1>ㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜ</h1>
+<h1>도자좀</h1>
 </body>
 </html>
